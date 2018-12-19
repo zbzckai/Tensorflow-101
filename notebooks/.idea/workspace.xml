@@ -24,6 +24,25 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Hangulpy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hangulpy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="copy_4_xavier.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/copy_4_xavier.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -45,7 +64,9 @@
         <option value="$PROJECT_DIR$/basic_gendataset.ipynb" />
         <option value="$PROJECT_DIR$/mlp_mnist_deeper.ipynb" />
         <option value="$PROJECT_DIR$/mlp_mnist_simple.ipynb" />
+        <option value="E:/work/pacture_more/mazha.py" />
         <option value="$PROJECT_DIR$/mlp_mnist_xavier.ipynb" />
+        <option value="$PROJECT_DIR$/copy_4_xavier.ipynb" />
       </list>
     </option>
   </component>
@@ -126,7 +147,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15031983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -296,10 +317,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://E:/work/pacture_more/mazha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hangulpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy_4_xavier.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mlp_mnist_xavier.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="2" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
