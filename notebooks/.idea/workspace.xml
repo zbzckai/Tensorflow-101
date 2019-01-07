@@ -15,17 +15,8 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mlp_mnist_xavier.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mlp_mnist_xavier.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic_gendataset.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic_gendataset.ipynb">
+      <file leaf-file-name="cnn_customdata_basic.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn_customdata_basic.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="3" />
@@ -33,15 +24,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="word2vec_basic.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/word2vec_basic.ipynb">
+      <file leaf-file-name="rnn_mnist_simple.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rnn_mnist_simple.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="2" />
+              <selected id="10" />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="basic_tensorflow.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_tensorflow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jiangyuan.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jiangyuan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_ops.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/soft/python/Lib/site-packages/tensorflow/python/ops/array_ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="1279" column="46" lean-forward="false" selection-start-line="1279" selection-start-column="46" selection-end-line="1279" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="nn_ops.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/soft/python/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="1918" column="4" lean-forward="false" selection-start-line="1918" selection-start-column="4" selection-end-line="1918" selection-end-column="4" />
+              <folding />
+=======
 <<<<<<< HEAD
       <file leaf-file-name="Hangulpy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hangulpy.py">
@@ -68,6 +97,7 @@
                 <element signature="e#186#204#0" expanded="true" />
               </folding>
 >>>>>>> 66bcf108a1fa0a7c3137037adcd166ac430f9077
+>>>>>>> 4e9d64ed5e625d9b15d5b30acb76cb318e4f60e7
             </state>
           </provider>
         </entry>
@@ -100,7 +130,17 @@
         <option value="$PROJECT_DIR$/basic_gendataset.ipynb" />
 >>>>>>> 66bcf108a1fa0a7c3137037adcd166ac430f9077
         <option value="$PROJECT_DIR$/mlp_mnist_xavier.ipynb" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/word2vec_basic.ipynb" />
+        <option value="$PROJECT_DIR$/cam_vgg_retina.ipynb" />
+        <option value="$PROJECT_DIR$/cam_vgg_caltech101.ipynb" />
+        <option value="$PROJECT_DIR$/use_vgg.ipynb" />
+        <option value="$PROJECT_DIR$/cnn_customdata_basic.ipynb" />
+        <option value="$PROJECT_DIR$/rnn_mnist_simple.ipynb" />
+        <option value="$PROJECT_DIR$/jiangyuan.py" />
+=======
         <option value="$PROJECT_DIR$/copy_4_xavier.ipynb" />
+>>>>>>> 4e9d64ed5e625d9b15d5b30acb76cb318e4f60e7
       </list>
     </option>
   </component>
@@ -111,10 +151,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-106" />
-    <option name="y" value="31" />
+    <option name="x" value="3" />
     <option name="width" value="1370" />
-    <option name="height" value="772" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -131,7 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -160,7 +199,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -400,10 +439,14 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
+    <frame x="3" y="0" width="1370" height="735" extended-state="0" />
+=======
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
 =======
     <frame x="-106" y="31" width="1370" height="772" extended-state="1" />
 >>>>>>> 66bcf108a1fa0a7c3137037adcd166ac430f9077
+>>>>>>> 4e9d64ed5e625d9b15d5b30acb76cb318e4f60e7
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23116691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -411,19 +454,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4976" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25528702" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,6 +480,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mlp_mnist_xavier.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_gendataset.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word2vec_basic.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tsboard/CESHI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="58" />
+          <folding>
+            <element signature="e#186#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mlp_mnist_xavier.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -584,13 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_tensorflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="103" column="20" lean-forward="true" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/scipy/misc/pilutil.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/matplotlib/pyplot.py" />
     <entry file="file://$PROJECT_DIR$/mlp_mnist_deeper.ipynb">
@@ -610,6 +677,20 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/tensorflow/python/ops/nn_ops.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/tensorflow/python/ops/math_ops.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/tensorflow/python/training/adam.py" />
+    <entry file="file://$PROJECT_DIR$/basic_gendataset.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlp_mnist_xavier.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/tsboard/CESHI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -627,13 +708,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mlp_mnist_xavier.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
+    <entry file="file://D:/soft/python/Lib/site-packages/numpy/lib/twodim_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="141" column="58" lean-forward="false" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cam_vgg_retina.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/cam_vgg_caltech101.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_vgg.ipynb">
+=======
 <<<<<<< HEAD
     <entry file="file://E:/work/pacture_more/mazha.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -652,22 +751,66 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/copy_4_xavier.ipynb">
+>>>>>>> 4e9d64ed5e625d9b15d5b30acb76cb318e4f60e7
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/cnn_customdata_basic.ipynb">
+=======
     <entry file="file://$PROJECT_DIR$/mlp_mnist_xavier.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
 =======
     <entry file="file://$PROJECT_DIR$/basic_gendataset.ipynb">
+>>>>>>> 4e9d64ed5e625d9b15d5b30acb76cb318e4f60e7
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="3" />
 >>>>>>> 66bcf108a1fa0a7c3137037adcd166ac430f9077
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/soft/python/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="1918" column="4" lean-forward="false" selection-start-line="1918" selection-start-column="4" selection-end-line="1918" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/soft/python/Lib/site-packages/tensorflow/python/ops/array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="1279" column="46" lean-forward="false" selection-start-line="1279" selection-start-column="46" selection-end-line="1279" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rnn_mnist_simple.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_tensorflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiangyuan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
